@@ -32,7 +32,7 @@ Pour visualiser ce projet, suivez ces étapes :
 
 1.  Clonez ce dépôt GitHub sur votre machine locale :
     ```bash
-    git clone [https://www.dudsdepot.com/](https://www.dudsdepot.com/)
+    git clone [https://github.com/jeanphilipp/projet-resto/](https://github.com/jeanphilipp/projet-resto/)
     ```
 2.  Ouvrez le fichier `index.html` dans votre navigateur web.
 
